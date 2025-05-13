@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="multiplication_background">#2196F3</color>
+    <color name="multiplication_text">#0288D1</color>
+    <color name="addition_background">#4CAF50</color>
+    <color name="addition_text">#388E3C</color>
+    <color name="subtraction_background">#F44336</color>
+    <color name="subtraction_text">#D32F2F</color>
+    <color name="toolbar_background">#3F51B5</color>
+    <color name="background">#F5F5F5</color>
+</resources>
