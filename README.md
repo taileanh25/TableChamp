@@ -27,3 +27,4 @@ git clone https://github.com/yourusername/all-star-math-tables.git
 Open the project in Android Studio.
 Run it on an emulator or physical device.
 
+![banner](https://github.com/user-attachments/assets/08e5cefa-c4ef-4ee1-94ca-904f3849c850)
